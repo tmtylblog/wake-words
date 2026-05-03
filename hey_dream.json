@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Dream",
   "author": "Dream AI (custom trained)",
-  "website": "",
+  "website": "https://github.com/tmtylblog/wake-words",
   "model": "hey_dream.tflite",
   "trained_languages": ["en"],
   "version": 2,
